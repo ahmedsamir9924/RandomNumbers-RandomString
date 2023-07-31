@@ -26,7 +26,3 @@ This C# console application allows you to generate random numbers within a given
 ## Contributing
 
 This is an open-source project, and contributions are welcome. If you encounter any issues or have suggestions for improvements, please feel free to open an issue or submit a pull request.
-
-## License
-
-This project is licensed under the [MIT License](LICENSE.md).
